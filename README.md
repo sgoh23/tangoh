@@ -1,5 +1,3 @@
-# tangoh project
-
 <h1>My learning project</h1>
 <P>Hi, My name is Serena. I was a programmer 15 years ago
 <br>Have been coding recently here and there
